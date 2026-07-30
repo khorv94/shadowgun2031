@@ -10,17 +10,12 @@ The player chooses between two teams. (CT) or (T).
 
 ### Races
 
-1. Human
-Well rounded stats, good with shop($)
-
-2. Elf
-Fast, squishy, silent, good with magic
-
-3. Dwarf
-Sturdy, small, good with tech
-
-4. Troll
-Tanky, slow, loud, big, good with weapons
+| Races |                                  |
+| ----- | -------------------------------- |
+| Human | Well rounded stats, +shop        |
+| Elf   | Fast, squishy, silent, +magic    |
+| Dwarf | Sturdy, healthy, small, +tech    |
+| Troll | Tanky, slow, loud, big, +weapons |
 
 ## Shop Categories
 
