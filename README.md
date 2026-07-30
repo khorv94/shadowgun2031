@@ -10,13 +10,16 @@ The player chooses between two teams. (CT) or (T).
 
 ### Races
 
-#### Human
+1. Human
 Well rounded stats, good with shop($)
-#### Elf
+
+2. Elf
 Fast, squishy, silent, good with magic
-#### Dwarf
+
+3. Dwarf
 Sturdy, small, good with tech
-####
+
+4. Troll
 Tanky, slow, loud, big, good with weapons
 
 ## Shop Categories
