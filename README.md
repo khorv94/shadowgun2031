@@ -10,7 +10,7 @@ The player chooses between two teams. (CT) or (T).
 
 ### Races
 
-| Races |                                  |
+
 | ----- | -------------------------------- |
 | Human | Well rounded stats, +shop        |
 | Elf   | Fast, squishy, silent, +magic    |
