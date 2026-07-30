@@ -31,7 +31,7 @@ public void PrecacheModels()
     PrecacheModel("models/player/ics/ct_elf/ct_gign.mdl", true);
     PrecacheModel("models/player/ics/ct_dwarf/ct_gsg9.mdl", true);
     PrecacheModel("models/player/ics/ct_troll/ct_sas.mdl", true);
-    PrintToServer("Modelle erfolgreich vorgeladen.");
+    PrintToServer("Models successfully preloaded.");
 }
 
 // Add Materials to Download List
@@ -228,7 +228,7 @@ bool:IsValidClient(int client)
 
 bool:IsValidModel(const char[] model)
 {
-    return model[0] != '\0'; // Überprüfen, ob der Modellpfad nicht leer ist
+    return model[0] != '\0'; // Check whether the model path is not empty.
 }
 
 void ApplyMaterials(const char[] modelPath)
