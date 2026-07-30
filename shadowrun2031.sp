@@ -133,14 +133,14 @@ public Action:Event_PlayerSpawn(Event event, const char[] name, bool dontBroadca
 
     if (IsClientInGame(client)) // && IsPlayerAdmin(client))
     {
-        PrecacheModel("models/player/ics/t_human/t_leet.mdl", true); // Zwischenspeichern des Modells
-		PrecacheModel("models/player/ics/t_troll/terror.mdl", true); // Zwischenspeichern des Modells
-		PrecacheModel("models/player/ics/t_dwarf/t_arctic.mdl", true); // Zwischenspeichern des Modells
-		PrecacheModel("models/player/ics/t_elf/t_guerilla.mdl", true); // Zwischenspeichern des Modells		
-		PrecacheModel("models/player/ics/ct_troll/ct_sas.mdl", true); // Zwischenspeichern des Modells
-		PrecacheModel("models/player/ics/ct_dwarf/ct_gsg9.mdl", true); // Zwischenspeichern des Modells
-		PrecacheModel("models/player/ics/ct_elf/ct_gign.mdl", true); // Zwischenspeichern des Modells
-		PrecacheModel("models/player/ics/ct_human/urban.mdl", true); // Zwischenspeichern des Modells
+        PrecacheModel("models/player/ics/t_human/t_leet.mdl", true); // Caching the model
+		PrecacheModel("models/player/ics/t_troll/terror.mdl", true); // Caching the model
+		PrecacheModel("models/player/ics/t_dwarf/t_arctic.mdl", true); // Caching the model
+		PrecacheModel("models/player/ics/t_elf/t_guerilla.mdl", true); // Caching the model		
+		PrecacheModel("models/player/ics/ct_troll/ct_sas.mdl", true); // Caching the model
+		PrecacheModel("models/player/ics/ct_dwarf/ct_gsg9.mdl", true); // Caching the model
+		PrecacheModel("models/player/ics/ct_elf/ct_gign.mdl", true); // Caching the model
+		PrecacheModel("models/player/ics/ct_human/urban.mdl", true); // Caching the model
         SetPlayerSkin(client);
     }   
     return Plugin_Continue;
