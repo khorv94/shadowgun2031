@@ -228,7 +228,7 @@ bool:IsValidClient(int client)
 
 bool:IsValidModel(const char[] model)
 {
-    return model[0] != '\0'; // Überprüfen, ob der Modellpfad nicht leer ist
+    return model[0] != '\0'; // Check whether the model path is not empty.
 }
 
 void ApplyMaterials(const char[] modelPath)
