@@ -55,11 +55,11 @@ The player chooses between two teams. (CT) or (T).
 
 ### upgrade system
 
-Weapons can be upgraded up to 3 times. 
-Weapon gains 1 potential level each round 
-Player can spend money to upgrade weapon
-Player can purchase 1 upgrade per weapon per round (potential level allowing)
-Player cannot upgrade ak while CT and vice versa
+- Weapons can be upgraded up to 3 times. 
+- Weapon gains 1 potential level each round 
+- Player can spend money to upgrade weapon
+- Player can purchase 1 upgrade per weapon per round (potential level allowing)
+- Player cannot upgrade ak while CT and vice versa
 
 | Weapon Level | Color  |
 | ------------ | ------ |
