@@ -53,7 +53,7 @@ The player chooses between two teams. (CT) or (T).
 
 ### Weapons
 
-### upgrade system
+#### upgrade system
 
 - Weapons can be upgraded up to 3 times. 
 - Weapon gains 1 potential level each round 
